@@ -21,6 +21,7 @@ SAWERIA_PASSWORD=S3cur3dP4sworld
 ```
 
 📜 lang.json
+
 Thing(s) Important To Fill.
 
 ```
