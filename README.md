@@ -11,7 +11,5 @@
 ```
 
 ## Using
-```
 Saweria-API By [SuspiciousLookingOwl](https://github.com/SuspiciousLookingOwl/saweria-api)
 DiscordJS By [DiscordJS](https://www.npmjs.com/package/discord.js)
-```
